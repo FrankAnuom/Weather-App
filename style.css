@@ -93,3 +93,12 @@ body{
     margin-top: 10px;
     display: none;
 }
+@media (max-width: 768px) {
+    
+    .search button img {
+            order: 1;
+            /* Move the image to the end (right) for mobile view */
+            margin-left: 5px;
+            /* Adjust the spacing between the text and image */
+        }
+}
