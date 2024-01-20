@@ -96,7 +96,7 @@ body{
 @media (max-width: 768px) {
     
     .search button img {
-        margin-top: -200px;
+        margin-top: -300px;
             order: 1;
             /* Move the image to the end (right) for mobile view */
             margin-left: 150px;
