@@ -99,7 +99,7 @@ body{
         margin-top: -10px;
             order: 1;
             /* Move the image to the end (right) for mobile view */
-            margin-left: 5px;
+            margin-left: 150px;
             /* Adjust the spacing between the text and image */
         }
 }
